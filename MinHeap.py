@@ -1,3 +1,4 @@
+
 # Approach:
 # A Min-Heap ensures the smallest element is at the root. We represent it as a complete binary tree using an array, 
 # where for any index `i`, the parent is at `(i - 1) // 2`, the left child at `2 * i + 1`, and the right child at `2 * i + 2`.
